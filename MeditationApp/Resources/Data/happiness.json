@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Happiness State",
+    "collection": "7 Days of Happiness",
+    "duration": 492,
+    "audioURL": "happinessTrack1"
+  },
+  {
+    "id": 2,
+    "title": "Happiness Attention",
+    "collection": "Deep Happiness",
+    "duration": 180,
+    "audioURL": "happinessTrack1"
+  },
+  {
+    "id": 3,
+    "title": "Happiness Attention",
+    "collection": "Mind Happiness",
+    "duration": 683,
+    "audioURL": "happinessTrack1"
+  }
+]

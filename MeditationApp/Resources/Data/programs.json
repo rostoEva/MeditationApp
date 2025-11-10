@@ -1,0 +1,129 @@
+[
+  {
+    "id": 0,
+    "title": "Calm Mind Journey",
+    "description": "Consequat officia consequat qui veniam mollit est aliqua dolor fugiat quis aliqua tempor.",
+    "coverImage": "sleepMeditattion",
+    "category": "anxious",
+    "tracks": [
+      {
+        "id": 0,
+        "title": "cupidatat amet",
+        "collection": "fugiat",
+        "duration": 408,
+        "audioURL": "meditationTrack1"
+      },
+      {
+        "id": 1,
+        "title": "reprehenderit reprehenderit",
+        "collection": "commodo",
+        "duration": 559,
+        "audioURL": "meditationTrack2"
+      },
+      {
+        "id": 2,
+        "title": "sit eu",
+        "collection": "nisi",
+        "duration": 557,
+        "audioURL": "meditationTrack3"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Anxiety Release Series",
+    "description": "Fugiat ex excepteur minim aliqua magna sunt eiusmod culpa occaecat consectetur elit deserunt.",
+    "coverImage": "kidsMeditation",
+    "category": "anxious",
+    "tracks": [
+      {
+        "id": 0,
+        "title": "nostrud esse",
+        "collection": "laborum",
+        "duration": 485,
+        "audioURL": "happinessTrack1"
+      },
+      {
+        "id": 1,
+        "title": "aute deserunt",
+        "collection": "in",
+        "duration": 538,
+        "audioURL": "happinessTrack2"
+      },
+      {
+        "id": 2,
+        "title": "ipsum eiusmod",
+        "collection": "consectetur",
+        "duration": 413,
+        "audioURL": "happinessTrack3"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Stress Meltdown",
+    "description": "Cupidatat incididunt pariatur sit aute.",
+    "coverImage": "daysOfCalm",
+    "category": "anxious",
+    "tracks": [
+      {
+        "id": 0,
+        "title": "magna duis",
+        "collection": "cupidatat",
+        "duration": 512,
+        "audioURL": "musicTrack1"
+      },
+      {
+        "id": 1,
+        "title": "duis magna",
+        "collection": "in",
+        "duration": 441,
+        "audioURL": "musicTrack2"
+      },
+      {
+        "id": 2,
+        "title": "in id",
+        "collection": "reprehenderit",
+        "duration": 331,
+        "audioURL": "musicTrack3"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Deep Sleep",
+    "description": "Qui amet velit sit exercitation eu.",
+    "coverImage": "kidsMeditation",
+    "category": "sleep",
+    "tracks": [
+      {
+        "id": 0,
+        "title": "consectetur cillum",
+        "collection": "ad",
+        "duration": 394,
+        "audioURL": "focusTrack1"
+      },
+      {
+        "id": 1,
+        "title": "proident aliquip",
+        "collection": "incididunt",
+        "duration": 327,
+        "audioURL": "focusTrack2"
+      },
+      {
+        "id": 2,
+        "title": "quis ex",
+        "collection": "ad",
+        "duration": 505,
+        "audioURL": "focusTrack3"
+      },
+      {
+        "id": 3,
+        "title": "incididunt ad",
+        "collection": "sit",
+        "duration": 392,
+        "audioURL": "meditationTrack{{integer(1, 20)}}"
+      }
+    ]
+  }
+]

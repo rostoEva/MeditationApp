@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Soft Wind",
+    "collection": "Evening Relax",
+    "duration": 358,
+    "audioURL": "musicTrack1"
+  },
+  {
+    "id": 2,
+    "title": "Rainy Mood",
+    "collection": "Morning Energy",
+    "duration": 260,
+    "audioURL": "musicTrack2"
+  },
+  {
+    "id": 3,
+    "title": "Morning Calm",
+    "collection": "7 Days of Calm",
+    "duration": 552,
+    "audioURL": "musicTrack3"
+  },
+  {
+    "id": 4,
+    "title": "Flow State",
+    "collection": "Morning Energy",
+    "duration": 598,
+    "audioURL": "musicTrack4"
+  },
+  {
+    "id": 5,
+    "title": "Forest Mind",
+    "collection": "Evening Relax",
+    "duration": 478,
+    "audioURL": "musicTrack5"
+  }
+]

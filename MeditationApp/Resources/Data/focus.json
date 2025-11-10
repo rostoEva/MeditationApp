@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Forest Mind",
+    "collection": "Deep Focus",
+    "duration": 181,
+    "audioURL": "focusTrack1"
+  },
+  {
+    "id": 2,
+    "title": "Focus Mood",
+    "collection": "Evening Focus",
+    "duration": 646,
+    "audioURL": "focusTrack2"
+  },
+  {
+    "id": 3,
+    "title": "Forest Mind",
+    "collection": "7 Days of Focus",
+    "duration": 248,
+    "audioURL": "focusTrack3"
+  }
+]

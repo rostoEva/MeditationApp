@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Focus Attention",
+    "collection": "Mind Reset",
+    "duration": 415,
+    "audioURL": "meditationTrack1"
+  },
+  {
+    "id": 2,
+    "title": "Morning Calm",
+    "collection": "Deep Focus",
+    "duration": 182,
+    "audioURL": "meditationTrack2"
+  },
+  {
+    "id": 3,
+    "title": "Deep Ocean",
+    "collection": "Deep Focus",
+    "duration": 360,
+    "audioURL": "meditationTrack3"
+  }
+]
